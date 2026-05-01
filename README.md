@@ -25,6 +25,9 @@
 <img width="1404" height="853" alt="2026-05-01 23_58_49-Administrator_ C__WINDOWS_system32_cmd exe" src="https://github.com/user-attachments/assets/06218417-0548-4060-a250-89f7c20dd72d" />
 <img width="1400" height="850" alt="2026-05-02 01_27_37-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/61df3d0a-b9aa-4f80-a08b-98b8acadcf4a" />
 <img width="1400" height="850" alt="2026-05-02 01_27_49-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/a4b43d6f-4a4c-483d-8b0b-1323e20c1c00" />
+<img width="421" height="176" alt="2026-05-01 23_45_33-" src="https://github.com/user-attachments/assets/a3f57c89-3666-44fe-a519-1124b7973db3" />
+<img width="427" height="158" alt="2026-05-01 23_48_10-" src="https://github.com/user-attachments/assets/5724d993-354c-486a-a407-6401e995b842" />
+
 
 ## 🔥 Core Features
 
