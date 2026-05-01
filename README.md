@@ -2,6 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-12.22_Titan_Apex-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%20%7C%2011-lightgrey)
+![Architecture](https://img.shields.io/badge/Architecture-x64%20%7C%20AMD64-orange)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
 **BlackIce Omega** is an advanced, high-performance network security matrix and Windows Filtering Platform (WFP) frontend. It provides real-time traffic analysis, process-level deep packet inspection, and an integrated AI cyber-assistant (NOVA).
