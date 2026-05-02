@@ -25,8 +25,8 @@
 <img width="1400" height="850" alt="2026-05-01 23_57_52-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/9e5002fd-8cd2-4593-8671-b3b80b9ac4c0" />
 <img width="1400" height="850" alt="2026-05-01 23_58_40-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/e4072725-85ed-4b82-9ca3-9608eebbcca5" />
 <img width="1404" height="853" alt="2026-05-01 23_58_49-Administrator_ C__WINDOWS_system32_cmd exe" src="https://github.com/user-attachments/assets/06218417-0548-4060-a250-89f7c20dd72d" />
-<img width="1400" height="850" alt="2026-05-02 01_27_37-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/61df3d0a-b9aa-4f80-a08b-98b8acadcf4a" />
-<img width="1400" height="850" alt="2026-05-02 01_27_49-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/a4b43d6f-4a4c-483d-8b0b-1323e20c1c00" />
+<img width="1400" height="850" alt="2026-05-02 10_26_14-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/c01d094a-5891-4b28-8dd9-0afa180dabaf" />
+<img width="1400" height="850" alt="2026-05-02 10_26_48-BlackIce Omega Suite" src="https://github.com/user-attachments/assets/b8b521f1-967e-413d-be46-3eb69e7665df" />
 <img width="421" height="176" alt="2026-05-01 23_45_33-" src="https://github.com/user-attachments/assets/a3f57c89-3666-44fe-a519-1124b7973db3" />
 <img width="427" height="158" alt="2026-05-01 23_48_10-" src="https://github.com/user-attachments/assets/5724d993-354c-486a-a407-6401e995b842" />
 
